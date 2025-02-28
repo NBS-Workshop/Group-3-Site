@@ -1003,7 +1003,7 @@
           "description": "",
           "keywords": "",
           "href": "/Group-3-Site/es/9-2-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-2-2",
@@ -2116,38 +2116,6 @@
           "keywords": "",
           "href": "/Group-3-Site/es/17-19-2/",
           "status": "notstarted"
-        }]
-    }
-  },
-  {
-    "goal": {
-      "id": "Group_3_Indicator_3_6_1_",
-      "title": "global_indicators.Group_3_Indicator_3_6_1_-title",
-      "indicators": [
-        
-        {
-          "id": "Group_3_Indicator_3_6_1_",
-          "title": "global_indicators.Group_3_Indicator_3_6_1_-title",
-          "description": "",
-          "keywords": "",
-          "href": "/Group-3-Site/es/Group_3_Indicator_3_6_1_/",
-          "status": "complete"
-        }]
-    }
-  },
-  {
-    "goal": {
-      "id": "Indicator_2_2_1",
-      "title": "global_indicators.Indicator_2_2_1-title",
-      "indicators": [
-        
-        {
-          "id": "Indicator_2_2_1",
-          "title": "global_indicators.Indicator_2_2_1-title",
-          "description": "",
-          "keywords": "",
-          "href": "/Group-3-Site/es/Indicator_2_2_1/",
-          "status": "complete"
         }]
     }
   }]
